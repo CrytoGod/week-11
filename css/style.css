@@ -77,3 +77,12 @@ ul li{
 .fin li:nth-child(odd){
     background-color: rgba(0, 22, 225, 0.2);
 }
+
+input[type="checkbox"] {
+    appearance: none;
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    border: 2px solid blue;
+    background-color: white;
+}
